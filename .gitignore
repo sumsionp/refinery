@@ -1,0 +1,20 @@
+# Refinery Security & Privacy
+# ---------------------------
+# NEVER track raw supportconfigs or logs containing PII
+data/raw/
+*.log
+*.tar.gz
+*.zip
+*.7z
+*.gz
+*.tgz
+*.xz
+
+# Local Database & Environment
+data/refinery.db
+.env
+__pycache__/
+.DS_Store
+
+# Allow tracking of the folder structure itself
+!data/raw/.gitkeep
