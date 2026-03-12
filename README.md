@@ -1,3 +1,3 @@
 # Refinery
 
-A local tool for refining support cases into searchable knowledge.
+A local tool for distilling support cases into searchable knowledge.

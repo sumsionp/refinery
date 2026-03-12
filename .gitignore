@@ -4,11 +4,10 @@
 data/raw/
 *.log
 *.tar.gz
-*.zip
-*.7z
-*.gz
 *.tgz
+*.zip
 *.xz
+*.7z
 
 # Local Database & Environment
 data/refinery.db
