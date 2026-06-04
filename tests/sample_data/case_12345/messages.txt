@@ -1,0 +1,4 @@
+Support log from 2023-10-27
+IP: 192.168.1.1, MAC: 00:1A:2B:3C:4D:5E
+User: admin@company.com
+Hostname: server1.internal.company.com
